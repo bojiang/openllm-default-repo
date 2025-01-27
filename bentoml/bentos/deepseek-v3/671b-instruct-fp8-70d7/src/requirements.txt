@@ -1,4 +1,4 @@
-vllm==0.6.6post1
+vllm==0.7.0
 pyyaml
 pillow
 openai
